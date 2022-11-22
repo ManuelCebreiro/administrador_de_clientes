@@ -1,0 +1,56 @@
+{
+  "clientes": [
+    {
+      "nombre": "Adrian(hola)",
+      "empresa": "4GeeksAcademy",
+      "email": "juan@juan.com",
+      "telefono": "23232323",
+      "notas": "hola mamon",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Kenny Sulma",
+      "telefono": 138198313,
+      "email": "KennySulma@google.com",
+      "empresa": "Google"
+    },
+    {
+      "id": 3,
+      "nombre": "Juan",
+      "telefono": 31983913,
+      "email": "Juan@gmail.com",
+      "empresa": "Udemy"
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Coursera"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@juan.com",
+      "empresa": "Microsoft"
+    },
+    {
+      "nombre": "Manuel",
+      "empresa": "Google",
+      "email": "cebreirom@gmail.com",
+      "telefono": "638514511",
+      "notas": "Probando",
+      "id": 6
+    },
+    {
+      "nombre": "alejandro",
+      "empresa": "4geejs",
+      "email": "cebreirom@gmail.com",
+      "telefono": "638514511",
+      "notas": "sds",
+      "id": 7
+    }
+  ]
+}
